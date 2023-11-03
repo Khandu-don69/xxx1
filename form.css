@@ -1,0 +1,17 @@
+
+.baka{
+        
+        font-size: 200px;
+        padding-top: 200px;
+        padding-left: 100px;
+        transition: all ease-in-out 250ms;
+        text-align: center;
+
+    }
+    .baka a:hover{
+        color:white;
+      }
+      body{
+        background:url(bg.jpg)no-repeat;
+        background-size: cover;
+      }
